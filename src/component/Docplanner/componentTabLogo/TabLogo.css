@@ -1,0 +1,28 @@
+.part-platform{
+    padding: 20px 190px ;
+    background-color:#D5F5F6 ;
+    height: 600px;
+    background-image:url(https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/jcmy9zzlqh682l0my9p3);
+    background-repeat: no-repeat;
+    background-size: 460px 460px;
+    background-position: 8% 160%;
+    display:flex;
+    overflow: hidden;
+    justify-content: space-between;
+}
+.part-platform h2{
+color:#00B39B;
+font-size:34px;
+font-weight: 500;
+width:320px;
+height:99px;
+}
+.part-platform p{
+    font-size: 14px;
+    width: 415px;
+    height:48px;
+    margin:22px 0px 0px;
+    color: #77808D;
+    font-weight: 500;
+    line-height: 1.7142857143;
+}

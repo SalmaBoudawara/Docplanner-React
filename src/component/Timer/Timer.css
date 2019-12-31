@@ -1,0 +1,19 @@
+.time-container{
+    text-align: right;
+}
+.time-inner-container{
+    display:inline-block;
+    border:solid;
+   
+}
+.affiche-time{
+    color:red;
+    font-size: 4em;
+    /* border:1px solid blue; */
+}
+.time-item{
+    display: flex;
+    justify-content: space-around;
+    /* border:1px solid red; */
+    color: blue;
+}

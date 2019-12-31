@@ -1,0 +1,44 @@
+.first-table{
+    background-color:#00CCB1 ;
+    width:390px;
+    height:370px;
+    border-radius: 10px;
+    padding: 22px 40px 0px;
+    overflow:hidden;
+}
+.first-table h4{
+    color: hsla(0,0%,100%,.7);
+    font-size:14px;
+    font-weight: 400;
+}
+.first-table h2{
+    color:white;
+    font-size:26px;
+    font-weight: 400;
+    margin:8px 0px 26px;
+    width:397px;
+    height:66px;
+}
+.contenu-page{
+    display:flex;
+    justify-content: space-between;
+    padding:0px 250px;
+    
+}
+.selector img{
+    width:439px;
+    height:243px;
+}
+.selector{
+    display:flex;
+    justify-content: space-between;
+}
+.sel{
+    width:155px;
+    height: 40px;
+   padding:0px 20px 0px 18px;
+   font-weight: 400;
+   font-size: 12px;
+   color:#333333;
+   border-radius: 5px;
+}

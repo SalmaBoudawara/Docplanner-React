@@ -1,0 +1,39 @@
+
+.nav-menu{
+  width:400px;
+  border-bottom: 2px solid #0000ff;
+  margin: 50px;
+}
+.sous-menu{
+  display:flex;
+  justify-content:space-between;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  list-style: none;
+  padding: 0px;
+  margin-bottom: 1px;
+}
+.sous-menu a{
+  text-decoration: none;
+}
+.sous-menu a:hover{
+    
+  color: blue;
+}
+.dropdown{
+  list-style: none;
+    display: none;
+    width: 200px;
+    height: 100px;
+    position: absolute;
+     border:2px solid #0000ff ;
+     text-align: start;
+     padding: 5px;
+     line-height:1.5;
+     left:150px;
+   
+}
+.sous-menu li:hover .dropdown{
+  display: block;
+}

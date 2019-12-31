@@ -1,0 +1,38 @@
+.box{
+    border-radius: 5px;
+    background-color: white;
+    width: 198px;
+    height:200px;
+    /* border:solid; */
+    padding: 30px 20px;
+    text-align: center;
+}
+.box img{
+    width: 35px;
+    height:40px;
+}
+.box h3{
+    width: 198px;
+    height:62px;
+    color: #00b39b;
+    font-size:24px;
+    font-weight: 300;
+}
+.box p{
+    color:#747474;
+    font-size:13px;
+    width:198px;
+    height:48px;
+}
+.tousbox{
+    width: 500px;
+    height:600px;
+    padding: 10px 50px;
+    transition: all .35s ease-in-out 0s;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.test{
+    margin-top: 20px;
+}
